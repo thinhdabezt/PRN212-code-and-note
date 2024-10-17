@@ -1,0 +1,50 @@
+﻿<Window x:Class="MyCV.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MyCV"
+        mc:Ignorable="d"
+        Title="Login to CV" Height="540" Width="958"
+        Background="#ff00ff" 
+        WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Rectangle Stroke="Black" Margin="189,155,189,70"
+                   Fill="LightGray"
+                   RadiusX="20"
+                   RadiusY="20"/>
+
+        <Label Content="Login information" 
+               HorizontalAlignment="Center"
+               Margin="0,28,0,0"
+               VerticalAlignment="Top"
+               Width="504"
+               FontSize="55"
+               FontWeight="ExtraBold"
+               Foreground="Black"/>
+        <TextBox x:Name="UsernameTextBox" TextWrapping="Wrap" Margin="319,187,227,276"
+                 FontSize="20"
+                 Width="500"
+                 Height="50"
+                 />
+        <Label Content="Label" Margin="227,198,670,287"
+               Foreground="Black"
+               FontWeight="ExtraBold"
+               FontSize="20"/>
+        <Button x:Name="LoginButton" Content="Login" 
+                Margin="305,326,533,78"
+                FontSize="20"
+                Width="120"
+                Height="80"
+                FontWeight="ExtraBold"
+                Background="#ff00ff" Click="LoginButton_Click" RenderTransformOrigin="0.35,0.878"/>
+        <Button x:Name="CancelButton" Content="Cancel" 
+            Margin="535,326,303,78"
+            FontSize="20"
+            Width="120"
+            Height="80"
+            FontWeight="ExtraBold"
+            Background="#ff00ff" RenderTransformOrigin="0.35,0.878" Click="CancelButton_Click"/>
+
+    </Grid>
+</Window>
