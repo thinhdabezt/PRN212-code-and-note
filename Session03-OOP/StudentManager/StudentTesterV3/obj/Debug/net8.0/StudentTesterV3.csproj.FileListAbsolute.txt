@@ -1,0 +1,14 @@
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\bin\Debug\net8.0\StudentTesterV3.exe
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\bin\Debug\net8.0\StudentTesterV3.deps.json
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\bin\Debug\net8.0\StudentTesterV3.runtimeconfig.json
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\bin\Debug\net8.0\StudentTesterV3.dll
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\bin\Debug\net8.0\StudentTesterV3.pdb
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.AssemblyInfoInputs.cache
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.AssemblyInfo.cs
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.csproj.CoreCompileInputs.cache
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.dll
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\refint\StudentTesterV3.dll
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.pdb
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\StudentTesterV3.genruntimeconfig.cache
+D:\CSharp\PRN212\Session03-OOP\StudentManager\StudentTesterV3\obj\Debug\net8.0\ref\StudentTesterV3.dll

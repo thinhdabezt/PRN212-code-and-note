@@ -1,0 +1,13 @@
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\bin\Debug\net8.0\Bmi.deps.json
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\bin\Debug\net8.0\Bmi.dll
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\bin\Debug\net8.0\Bmi.pdb
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\bin\Debug\net8.0\Bmi.xml
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfoInputs.cache
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfo.cs
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.csproj.CoreCompileInputs.cache
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.dll
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\obj\Debug\net8.0\refint\Bmi.dll
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.xml
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\obj\Debug\net8.0\Bmi.pdb
+D:\CSharp\PRN212\Session02-Language\Health\Bmi\obj\Debug\net8.0\ref\Bmi.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CSharp\\PRN212\\Session04-Collections\\StudentManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B76A9934-2C6B-4A4C-A8B3-5E06D137EB15}|StudentTesterV3\\StudentTesterV3.csproj|d:\\csharp\\prn212\\session04-collections\\studentmanager\\studenttesterv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76A9934-2C6B-4A4C-A8B3-5E06D137EB15}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B76A9934-2C6B-4A4C-A8B3-5E06D137EB15}|StudentTesterV3\\StudentTesterV3.csproj|d:\\csharp\\prn212\\session04-collections\\studentmanager\\studenttesterv3\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B76A9934-2C6B-4A4C-A8B3-5E06D137EB15}|StudentTesterV3\\StudentTesterV3.csproj|solutionrelative:studenttesterv3\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cabinet.cs",
+              "DocumentMoniker": "D:\\CSharp\\PRN212\\Session04-Collections\\StudentManager\\StudentTesterV3\\Services\\Cabinet.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Services\\Cabinet.cs",
+              "ToolTip": "D:\\CSharp\\PRN212\\Session04-Collections\\StudentManager\\StudentTesterV3\\Services\\Cabinet.cs",
+              "RelativeToolTip": "StudentTesterV3\\Services\\Cabinet.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAwC0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:37:18.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CSharp\\PRN212\\Session04-Collections\\StudentManager\\StudentTesterV3\\Program.cs",
+              "RelativeDocumentMoniker": "StudentTesterV3\\Program.cs",
+              "ToolTip": "D:\\CSharp\\PRN212\\Session04-Collections\\StudentManager\\StudentTesterV3\\Program.cs",
+              "RelativeToolTip": "StudentTesterV3\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T08:36:35.206Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

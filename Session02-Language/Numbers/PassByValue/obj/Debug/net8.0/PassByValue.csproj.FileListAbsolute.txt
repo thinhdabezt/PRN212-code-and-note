@@ -1,0 +1,14 @@
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\bin\Debug\net8.0\PassByValue.exe
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\bin\Debug\net8.0\PassByValue.deps.json
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\bin\Debug\net8.0\PassByValue.runtimeconfig.json
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\bin\Debug\net8.0\PassByValue.dll
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\bin\Debug\net8.0\PassByValue.pdb
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.AssemblyInfoInputs.cache
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.AssemblyInfo.cs
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.csproj.CoreCompileInputs.cache
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.dll
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\obj\Debug\net8.0\refint\PassByValue.dll
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.pdb
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\obj\Debug\net8.0\PassByValue.genruntimeconfig.cache
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByValue\obj\Debug\net8.0\ref\PassByValue.dll

@@ -1,0 +1,14 @@
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.exe
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.deps.json
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.runtimeconfig.json
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.dll
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\bin\Debug\net8.0\PassByReferenceOutKeyword.pdb
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.AssemblyInfoInputs.cache
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.AssemblyInfo.cs
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.csproj.CoreCompileInputs.cache
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.dll
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\refint\PassByReferenceOutKeyword.dll
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.pdb
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\PassByReferenceOutKeyword.genruntimeconfig.cache
+D:\CSharp\PRN212\Session02-Language\Numbers\PassByReferenceOutKeyword\obj\Debug\net8.0\ref\PassByReferenceOutKeyword.dll

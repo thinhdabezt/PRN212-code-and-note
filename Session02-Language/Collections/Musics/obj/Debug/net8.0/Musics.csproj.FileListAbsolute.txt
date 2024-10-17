@@ -1,0 +1,14 @@
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.exe
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.deps.json
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.runtimeconfig.json
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.dll
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\bin\Debug\net8.0\Musics.pdb
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.AssemblyInfoInputs.cache
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.AssemblyInfo.cs
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.csproj.CoreCompileInputs.cache
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.dll
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\obj\Debug\net8.0\refint\Musics.dll
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.pdb
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\obj\Debug\net8.0\Musics.genruntimeconfig.cache
+D:\CSharp\PRN212\Session02-Language\Collections\Musics\obj\Debug\net8.0\ref\Musics.dll

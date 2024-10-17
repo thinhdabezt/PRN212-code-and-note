@@ -1,0 +1,14 @@
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.exe
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.deps.json
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.runtimeconfig.json
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.dll
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\bin\Debug\net8.0\Poems.pdb
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.AssemblyInfoInputs.cache
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.AssemblyInfo.cs
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.csproj.CoreCompileInputs.cache
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.dll
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\obj\Debug\net8.0\refint\Poems.dll
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.pdb
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\obj\Debug\net8.0\Poems.genruntimeconfig.cache
+D:\CSharp\PRN212\Session02-Language\Collections\Poems\obj\Debug\net8.0\ref\Poems.dll

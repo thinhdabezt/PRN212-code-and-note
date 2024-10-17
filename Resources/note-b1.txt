@@ -1,0 +1,14 @@
+b1:
+cross-platform(platform: OS + hardware)~~platform independent(của java)
+SDK: software development kit - bộ đồ chơi, công cụ, app của vendor(nhà cung cấp) giúp cho dân Developer làm app của MS, gồm 4 nnlt xài chung sdk(C#, VB.NET, F#, C++)
+.net: công nghệ làm 
+SDK for Java - JDK version 1.0, 2.0, ... Download 1 file .exe, cài 1, đc 2: JDK + JRE(Java Runtime Env.)
+SDK for .NET - .NET SDK, Download 1 file .exe, cài 1, đc 4: SDK + 3 Runtime (Console app, Desktop app, Web app)
+library=>dependency
+b2:
+history of .NET: là bộ công sụ, giải pháp mở bát chuỗi workshop bộ nnlt cung cấp bởi MS
+=>{ban đầu: .NET framework 1.0,...,3.5,...,4.8 - window only
+=>{.NET Core 1.0,2.0,...3x->đa nền
+=>.NET 5.0,6.0,7.0,8.0,9.0
+Mỗi
+1 solution có nhiều project
