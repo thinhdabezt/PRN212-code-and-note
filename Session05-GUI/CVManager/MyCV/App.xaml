@@ -4,6 +4,41 @@
              xmlns:local="clr-namespace:MyCV"
              StartupUri="LoginWindow.xaml">
     <Application.Resources>
-         
+        <!-- ta làm css để dung chung layout cho mọi màn hình -->
+        <!-- đoạn lệnh này làm style mặc định cho mọi nút bấm. mọi nút bấm nếu không có setting đặc biệt thì sẽ dùng style mặc định này -->
+        <Style TargetType="Button">
+            <Setter Property="Background" Value="#ffff00" />
+            <Setter Property="Foreground" Value="#dc143c" />
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="FontWeight" Value="ExtraBold" />
+        </Style>
+        <!-- đây là style thứ 2 của nút bấm, mình có thể làm thêm nhiều loại style khác nhau cho mỗi loại component: nút bấm, ô nhập, checkbox, nhãn, ... -->
+        <Style x:Key="SecondaryStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="#ffff00" />
+            <Setter Property="Background" Value="#dc143c" />
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="FontWeight" Value="ExtraBold" />
+        </Style>
+        <!-- style mặc định cho label -->
+        <Style TargetType="Label">
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Foreground" Value="#ff4500" />
+            <Setter Property="FontSize" Value="20" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+        <Style x:Key="Header" TargetType="Label">
+            <Setter Property="Background" Value="Transparent" />
+            <Setter Property="Foreground" Value="#ffff00" />
+            <Setter Property="FontSize" Value="40" />
+            <Setter Property="FontWeight" Value="Bold" />
+        </Style>
+        <!-- làm thêm cho TargetType = "TextBox" ô nhập -->
+        <Style TargetType="TextBox">
+            <Setter Property="Background" Value="#ff4500" />
+            <Setter Property="Foreground" Value="#ffff00" />
+            <Setter Property="FontSize" Value="18" />
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
     </Application.Resources>
 </Application>

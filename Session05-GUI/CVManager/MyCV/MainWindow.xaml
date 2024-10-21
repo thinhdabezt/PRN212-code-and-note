@@ -5,10 +5,33 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:MyCV"
         mc:Ignorable="d"
-        Title="MyCV" Height="450" Width="800" 
-        Background="#ff00ff" 
+        Title="MyCV" Height="504" Width="800" 
+        Background="#ff4500" 
         WindowStartupLocation="CenterScreen">
     <Grid>
-
+        <Button x:Name="LoadDataButton" Content="Load Data" Margin="618,10,0,0" Height="70" Width="150" Click="LoadDataButton_Click" HorizontalAlignment="Left" VerticalAlignment="Top" TabIndex="2"/>
+        <Label Content="Danh sách ứng viên" Margin="30,30,370,363" Style="{StaticResource Header}" RenderTransformOrigin="0.5,0.5">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="0"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="0"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Button Content="Create" Margin="618,90,0,0"  Height="70" Width="150" HorizontalAlignment="Left" VerticalAlignment="Top" TabIndex="2"/>
+        <!-- <DataGrid x:Name="CVListDataGrid" Margin="10,90,187,53" AutoGenerateColumns="True"/> -->
+        <!-- AutoGenerateColumns = "True" thì nó sẽ tự động lấy tên của property làm tên cột-->
+        <DataGrid x:Name="CVListDataGrid" Margin="10,133,187,10" AutoGenerateColumns="False">
+            <!-- define tên cột theo nhu cầu, và map với property của data sẽ đổ vào -->
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Mã số" Width="60" Binding="{Binding Id}"/>
+                <!-- binding phải chính xác với tên prop của object sẽ đổ vào 100% -->
+                <DataGridTextColumn Header="Họ và tên" Width="100" Binding="{Binding Name}"/>
+                <DataGridTextColumn Header="Năm sinh" Width="60" Binding="{Binding Yob}"/>
+                <DataGridTextColumn Header="Vị trí ứng tuyển" Width="120" Binding="{Binding Position}"/>
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Window>

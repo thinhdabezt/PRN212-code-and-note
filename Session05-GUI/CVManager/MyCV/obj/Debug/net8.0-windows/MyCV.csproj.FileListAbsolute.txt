@@ -21,3 +21,4 @@ D:\CSharp\PRN212\Session05-GUI\CVManager\MyCV\obj\Debug\net8.0-windows\MyCV.genr
 D:\CSharp\PRN212\Session05-GUI\CVManager\MyCV\obj\Debug\net8.0-windows\ref\MyCV.dll
 D:\CSharp\PRN212\Session05-GUI\CVManager\MyCV\obj\Debug\net8.0-windows\LoginWindow.g.cs
 D:\CSharp\PRN212\Session05-GUI\CVManager\MyCV\obj\Debug\net8.0-windows\LoginWindow.baml
+D:\CSharp\PRN212\Session05-GUI\CVManager\MyCV\obj\Debug\net8.0-windows\App.baml
