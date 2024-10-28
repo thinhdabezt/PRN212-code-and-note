@@ -1,0 +1,38 @@
+0. Cài tool để generate entity class từ database. Tool tên là Entity FrameworkCore (EF Core, Ef), là 1 tool chạy ở cmd đi kèm với lệnh dotnet.exe đã học ở đầu kỳ, tool này cài ở nhà, vào phòng thi không cài lại.
+Mở CMD, gõ lệnh: dotnet tool install --global dotnet-ef
+Check coi đã cài thành công hay chưa: dotnet tool list --global
+
+I. 
+1. Tạo mới solution và WPF project theo đúng tên trường quy ước, nhớ thay từ khóa studentname thành tên của mình, lưu ý mã số đề thi xuất hiện trong tên project và solution, tốt nhất là copy từ đề ra
+2. Không lưu bài thi ở thư mục có dính đến onedrive, googledrive vì sẽ bị xung đột với tool đông bộ. Nên lưu ở folder có đường dẫn ngắn
+
+II. Tạo mới 2 class library project( 2 thằng thư viện, không có .exe), đặt tên lấy 1 phần tên của project chính
+vd: AirConditionerShop.DAL (Data Access Layer) - chứa vài class liên quan đến table/database
+					       - chứa các class map trực tiếp xuống database
+    AirConditionerShop.BLL (Business Logic Layer) - chứa các class liên quan đến xử lý các entity class 						nhưng trong RAM
+Mô hình 3 layer: WPF - BLL - DAL
+*Nhớ add reference dependencies từ GUI sang BLL, từ BLL sang DAL và đừng quên chỉnh copy local -> yes
+III. Generate các entity class, map từ table map lên
+(từ table -> class gọi là database first)
+(từ class -> table gọi là code first)
+Đề thi pe là db first, tức là ta đã có 3 table, giờ ta generate ra 3 cái entity class
+-Ta xài tool đã cài ở bước 0
+-Ta cần them 6 thư viện trên internet(package, library, dependency): nuget package(package.json, pom.xml)
+-Lúc này cần yêu cầu giám thị cho mình kết nối internet để download dependency. Thực tế ta chỉ cần đồng bộ nhẹ thư viên trên mạng, do hôm nay mình đã làm rồi
+6 thư viện tên như sau (files trong đề thi đã có ghi chú)
+	-Microsoft.EntitiyFrameworkCore
+	-Microsoft.EntitiyFrameworkCore.Design
+	-Microsoft.EntitiyFrameworkCore.Tools
+	-Microsoft.EntitiyFrameworkCore.SqlServer
+	
+	-Microsoft.Extensions.Configuration
+	-Microsoft.Extensions.Configuration.Json
+1. Vào Project .DAL (dính database), phải chuột trên dependency, chọn manage nuget package, nhấn browse, gõ entity, nhấm enter rồi chọn 4 thằng ở trên, tích vào từng thẳng rồi install, chờ có tick xanh mới làm thằng khác
+2. câu lệnh quan trọng không thể thiếu
+-Phải nhớ build solution để vs refresh cái tool và các thư viện vừa add, nếu không các lệnh db first và generate class từ table dễ bị lỗi
+Build -> Rebuild Solution
+3. Generate các class từ table
+Chạy 1 lệnh, 3 table nhưng đc 4 class, mở file note, sửa lại mật khẩu với máy mình
+* Phải chuột trên project DAL, chọn terminal để mở cmd chuẩn bị gõ lệnh
+* Copy câu lệnh dbcontext scaffold trong file note dán vào cmd (bấm chuột phải) rồi enter
+dotnet ef dbcontext scaffold "Server=ItsThinhs;uid=sa;pwd=123456;database=AirConditionerShop2024DB;TrustServerCertificate=True" Microsoft.EntityFrameworkCore.SqlServer --output-dir Models

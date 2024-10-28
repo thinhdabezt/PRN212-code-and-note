@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_SU24_686868_HoangNgocTrinh\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|AirConditionerShop_HoangNgocTrinh\\AirConditionerShop_HoangNgocTrinh.csproj|d:\\csharp\\prn212\\session05-gui\\pe_prn212_su24_686868_hoangngoctrinh\\airconditionershop_hoangngoctrinh\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|AirConditionerShop_HoangNgocTrinh\\AirConditionerShop_HoangNgocTrinh.csproj|solutionrelative:airconditionershop_hoangngoctrinh\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|AirConditionerShop_HoangNgocTrinh\\AirConditionerShop_HoangNgocTrinh.csproj|d:\\csharp\\prn212\\session05-gui\\pe_prn212_su24_686868_hoangngoctrinh\\airconditionershop_hoangngoctrinh\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|AirConditionerShop_HoangNgocTrinh\\AirConditionerShop_HoangNgocTrinh.csproj|solutionrelative:airconditionershop_hoangngoctrinh\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|AirConditionerShop_HoangNgocTrinh\\AirConditionerShop_HoangNgocTrinh.csproj|d:\\csharp\\prn212\\session05-gui\\pe_prn212_su24_686868_hoangngoctrinh\\airconditionershop_hoangngoctrinh\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|AirConditionerShop_HoangNgocTrinh\\AirConditionerShop_HoangNgocTrinh.csproj|solutionrelative:airconditionershop_hoangngoctrinh\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|AirConditionerShop_HoangNgocTrinh\\AirConditionerShop_HoangNgocTrinh.csproj|d:\\csharp\\prn212\\session05-gui\\pe_prn212_su24_686868_hoangngoctrinh\\airconditionershop_hoangngoctrinh\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,8 +58,7 @@
               "RelativeToolTip": "AirConditionerShop_HoangNgocTrinh\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T17:54:40.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T17:54:40.698Z"
             },
             {
               "$type": "Document",
@@ -71,12 +70,11 @@
               "RelativeToolTip": "AirConditionerShop_HoangNgocTrinh\\LoginWindow.xaml.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-17T17:51:03.308Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-17T17:51:03.308Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_SU24_686868_HoangNgocTrinh\\AirConditionerShop_HoangNgocTrinh\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "AirConditionerShop_HoangNgocTrinh\\LoginWindow.xaml",
@@ -88,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_SU24_686868_HoangNgocTrinh\\AirConditionerShop_HoangNgocTrinh\\MainWindow.xaml",
               "RelativeDocumentMoniker": "AirConditionerShop_HoangNgocTrinh\\MainWindow.xaml",

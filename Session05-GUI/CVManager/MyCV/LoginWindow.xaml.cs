@@ -45,7 +45,7 @@ namespace MyCV
             myCV.ShowDialog();
         }
 
-        private void CancelButton_Click(object sender, RoutedEventArgs e)
+        private void QuitButton_Click(object sender, RoutedEventArgs e)
         {
             MessageBoxResult answer = MessageBox.Show("Do you want to exit?", "Exit?", MessageBoxButton.YesNo, MessageBoxImage.Question);
 

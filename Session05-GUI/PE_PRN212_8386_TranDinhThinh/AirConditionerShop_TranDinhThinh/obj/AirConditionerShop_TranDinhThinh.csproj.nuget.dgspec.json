@@ -1,0 +1,202 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop_TranDinhThinh\\AirConditionerShop_TranDinhThinh.csproj": {}
+  },
+  "projects": {
+    "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop.BLL\\AirConditionerShop.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop.BLL\\AirConditionerShop.BLL.csproj",
+        "projectName": "AirConditionerShop.BLL",
+        "projectPath": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop.BLL\\AirConditionerShop.BLL.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj": {
+                "projectPath": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj",
+        "projectName": "AirConditionerShop.DAL",
+        "projectPath": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop.DAL\\AirConditionerShop.DAL.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop_TranDinhThinh\\AirConditionerShop_TranDinhThinh.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop_TranDinhThinh\\AirConditionerShop_TranDinhThinh.csproj",
+        "projectName": "AirConditionerShop_TranDinhThinh",
+        "projectPath": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop_TranDinhThinh\\AirConditionerShop_TranDinhThinh.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop_TranDinhThinh\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop.BLL\\AirConditionerShop.BLL.csproj": {
+                "projectPath": "D:\\CSharp\\PRN212\\Session05-GUI\\PE_PRN212_8386_TranDinhThinh\\AirConditionerShop.BLL\\AirConditionerShop.BLL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

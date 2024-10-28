@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\CSharp\\PRN212\\Session05-GUI\\CVManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|d:\\csharp\\prn212\\session05-gui\\cvmanager\\mycv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|solutionrelative:mycv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|d:\\csharp\\prn212\\session05-gui\\cvmanager\\mycv\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|solutionrelative:mycv\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|d:\\csharp\\prn212\\session05-gui\\cvmanager\\mycv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|solutionrelative:mycv\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|d:\\csharp\\prn212\\session05-gui\\cvmanager\\mycv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|solutionrelative:mycv\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|d:\\csharp\\prn212\\session05-gui\\cvmanager\\mycv\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|d:\\csharp\\prn212\\session05-gui\\cvmanager\\mycv\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|solutionrelative:mycv\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|d:\\csharp\\prn212\\session05-gui\\cvmanager\\mycv\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|solutionrelative:mycv\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BF276C4B-5C46-4F29-B973-E0A882779E1D}|MyCV\\MyCV.csproj|d:\\csharp\\prn212\\session05-gui\\cvmanager\\mycv\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "App.xaml",
               "DocumentMoniker": "D:\\CSharp\\PRN212\\Session05-GUI\\CVManager\\MyCV\\App.xaml",
               "RelativeDocumentMoniker": "MyCV\\App.xaml",
@@ -70,45 +70,41 @@
               "RelativeToolTip": "MyCV\\AssemblyInfo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T14:37:23.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T14:37:23.369Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LoginWindow.xaml.cs",
               "DocumentMoniker": "D:\\CSharp\\PRN212\\Session05-GUI\\CVManager\\MyCV\\LoginWindow.xaml.cs",
               "RelativeDocumentMoniker": "MyCV\\LoginWindow.xaml.cs",
               "ToolTip": "D:\\CSharp\\PRN212\\Session05-GUI\\CVManager\\MyCV\\LoginWindow.xaml.cs",
               "RelativeToolTip": "MyCV\\LoginWindow.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAApwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACUAAAAAAAAAAAAtwC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:46:08.491Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:46:08.491Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "D:\\CSharp\\PRN212\\Session05-GUI\\CVManager\\MyCV\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "MyCV\\LoginWindow.xaml",
               "ToolTip": "D:\\CSharp\\PRN212\\Session05-GUI\\CVManager\\MyCV\\LoginWindow.xaml",
               "RelativeToolTip": "MyCV\\LoginWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-17T09:19:44.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:19:44.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\CSharp\\PRN212\\Session05-GUI\\CVManager\\MyCV\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MyCV\\MainWindow.xaml",
               "ToolTip": "D:\\CSharp\\PRN212\\Session05-GUI\\CVManager\\MyCV\\MainWindow.xaml",
               "RelativeToolTip": "MyCV\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-10-17T09:03:40.066Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:03:40.066Z"
             },
             {
               "$type": "Document",
@@ -118,7 +114,7 @@
               "RelativeDocumentMoniker": "MyCV\\MainWindow.xaml.cs",
               "ToolTip": "D:\\CSharp\\PRN212\\Session05-GUI\\CVManager\\MyCV\\MainWindow.xaml.cs",
               "RelativeToolTip": "MyCV\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAApwBoAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACsAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T09:03:37.742Z",
               "EditorCaption": ""
