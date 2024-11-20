@@ -1,0 +1,16 @@
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\bin\Debug\net8.0\BookManagement.BLL.deps.json
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\bin\Debug\net8.0\BookManagement.BLL.dll
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\bin\Debug\net8.0\BookManagement.BLL.pdb
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\bin\Debug\net8.0\BookManagement.DLL.dll
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\bin\Debug\net8.0\BookManagement.DLL.pdb
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\BookManagement.BLL.csproj.AssemblyReference.cache
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\BookManagement.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\BookManagement.BLL.AssemblyInfoInputs.cache
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\BookManagement.BLL.AssemblyInfo.cs
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\BookManagement.BLL.csproj.CoreCompileInputs.cache
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\BookManagement.BLL.sourcelink.json
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\BookMana.7845A9E0.Up2Date
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\BookManagement.BLL.dll
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\refint\BookManagement.BLL.dll
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\BookManagement.BLL.pdb
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\ref\BookManagement.BLL.dll

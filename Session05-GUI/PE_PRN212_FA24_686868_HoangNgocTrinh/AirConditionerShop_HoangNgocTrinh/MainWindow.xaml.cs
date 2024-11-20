@@ -19,6 +19,7 @@ namespace AirConditionerShop_HoangNgocTrinh
     public partial class MainWindow : Window
     {
         private AirConService _service = new();
+        public StaffMember User { get; set; }
         public MainWindow()
         {
             InitializeComponent();
@@ -26,6 +27,15 @@ namespace AirConditionerShop_HoangNgocTrinh
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
+            HelloMsgLabel.Content = $"Hello, {User.FullName}";
+
+            if(User.Role == 2)
+            {
+                CreateButton.IsEnabled = false;
+                UpdateButton.IsEnabled = false;
+                DeleteButton.IsEnabled = false;
+            }
+
             AirCondDataGrid.ItemsSource = _service.GetAllAirCons();
         }
 
@@ -35,6 +45,8 @@ namespace AirConditionerShop_HoangNgocTrinh
             //mỗi của sổ bản chất là 1 class => khai báo mới và new
             DetailWindow detail = new DetailWindow();
             detail.ShowDialog(); //làm xong mới quay về
+            FillDataGrid(_service.GetAllAirCons());
+
         }
 
         private void UpdateButton_Click(object sender, RoutedEventArgs e)
@@ -59,7 +71,10 @@ namespace AirConditionerShop_HoangNgocTrinh
 
             DetailWindow detail = new DetailWindow();
             //phải gửi thằng selected sang màn hình detail
+            detail.EditedOne = selected; //2 chàng 1 nàng
             detail.ShowDialog();
+            //cửa sổ chưa tắt thì lệnh dưới chưa chạy
+            FillDataGrid(_service.GetAllAirCons());
         }
 
         private void DeleteButton_Click(object sender, RoutedEventArgs e)
@@ -77,7 +92,7 @@ namespace AirConditionerShop_HoangNgocTrinh
             if(answer == MessageBoxResult.No)
                 return;
 
-            _service.Delete(selected);
+            _service.DeleteAirCon(selected);
             //xóa xong phải f5 vì grid nó chơi với ram, không có đồng bộ với db
             //cực kỳ quan trọng: create, update, delete đều phải f5 cái grid, chưa kể mở màn hình này cũng phải f5
             //lặp lại gì đó => tách hàm
@@ -90,6 +105,11 @@ namespace AirConditionerShop_HoangNgocTrinh
             //xóa lưới cũ, đổ lưới mới
             AirCondDataGrid.ItemsSource = null; //xóa data cũ
             AirCondDataGrid.ItemsSource = list; //fill data = data mới đưa vào
+        }
+
+        private void QuitButton_Click(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
         }
     }
 }

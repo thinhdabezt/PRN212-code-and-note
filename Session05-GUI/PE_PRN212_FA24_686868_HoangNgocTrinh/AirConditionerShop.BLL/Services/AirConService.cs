@@ -18,18 +18,23 @@ namespace AirConditionerShop.BLL.Services
             return _repo.GetAll();
         }
 
-        public void Delete(AirConditioner obj)
+        public void DeleteAirCon(AirConditioner obj)
         {
             _repo.Delete(obj);
         }
-        public void Update(AirConditioner obj)
+        public void UpdateAirCon(AirConditioner obj)
         {
             _repo.Update(obj);
         }
 
-        public void Add(AirConditioner obj)
+        public void CreateAirCon(AirConditioner obj)
         {
             _repo.Create(obj);
+        }
+
+        public List<AirConditioner> Search(string feature, int? quantity)
+        {
+            return _repo.Search(feature, quantity);
         }
     }
 }

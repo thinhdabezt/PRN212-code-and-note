@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfumemanagement_se181531\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|solutionrelative:perfumemanagement_se181531\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfumemanagement_se181531\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|solutionrelative:perfumemanagement_se181531\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfumemanagement_se181531\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|solutionrelative:perfumemanagement_se181531\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfumemanagement_se181531\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|solutionrelative:perfumemanagement_se181531\\detailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfumemanagement_se181531\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|solutionrelative:perfumemanagement_se181531\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A16DF1-DAF4-493F-B2E6-AE9AA7D9F040}|Perfume.DAL\\Perfume.DAL.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfume.dal\\repositories\\perfumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A16DF1-DAF4-493F-B2E6-AE9AA7D9F040}|Perfume.DAL\\Perfume.DAL.csproj|solutionrelative:perfume.dal\\repositories\\perfumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A16DF1-DAF4-493F-B2E6-AE9AA7D9F040}|Perfume.DAL\\Perfume.DAL.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfume.dal\\perfumeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A16DF1-DAF4-493F-B2E6-AE9AA7D9F040}|Perfume.DAL\\Perfume.DAL.csproj|solutionrelative:perfume.dal\\perfumeinformation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C76E2-45CA-4D43-A983-F7F0CEEC0B83}|Perfume.BLL\\Perfume.BLL.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfume.bll\\services\\perfumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C76E2-45CA-4D43-A983-F7F0CEEC0B83}|Perfume.BLL\\Perfume.BLL.csproj|solutionrelative:perfume.bll\\services\\perfumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C76E2-45CA-4D43-A983-F7F0CEEC0B83}|Perfume.BLL\\Perfume.BLL.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfume.bll\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C76E2-45CA-4D43-A983-F7F0CEEC0B83}|Perfume.BLL\\Perfume.BLL.csproj|solutionrelative:perfume.bll\\services\\companyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfumemanagement_se181531\\detailwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|solutionrelative:perfumemanagement_se181531\\detailwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A16DF1-DAF4-493F-B2E6-AE9AA7D9F040}|Perfume.DAL\\Perfume.DAL.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfume.dal\\productioncompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A16DF1-DAF4-493F-B2E6-AE9AA7D9F040}|Perfume.DAL\\Perfume.DAL.csproj|solutionrelative:perfume.dal\\productioncompany.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfumemanagement_se181531\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE9DE46F-835F-4D07-B34F-4A6912E4C166}|PerfumeManagement_SE181531\\PerfumeManagement_SE181531.csproj|solutionrelative:perfumemanagement_se181531\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C76E2-45CA-4D43-A983-F7F0CEEC0B83}|Perfume.BLL\\Perfume.BLL.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfume.bll\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C76E2-45CA-4D43-A983-F7F0CEEC0B83}|Perfume.BLL\\Perfume.BLL.csproj|solutionrelative:perfume.bll\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A16DF1-DAF4-493F-B2E6-AE9AA7D9F040}|Perfume.DAL\\Perfume.DAL.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfume.dal\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A16DF1-DAF4-493F-B2E6-AE9AA7D9F040}|Perfume.DAL\\Perfume.DAL.csproj|solutionrelative:perfume.dal\\repositories\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A16DF1-DAF4-493F-B2E6-AE9AA7D9F040}|Perfume.DAL\\Perfume.DAL.csproj|c:\\users\\asus\\desktop\\pe_prn212_fa24_000557_trandinhthinh\\perfume.dal\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A16DF1-DAF4-493F-B2E6-AE9AA7D9F040}|Perfume.DAL\\Perfume.DAL.csproj|solutionrelative:perfume.dal\\repositories\\companyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PerfumeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.DAL\\Repositories\\PerfumeRepository.cs",
+              "RelativeDocumentMoniker": "Perfume.DAL\\Repositories\\PerfumeRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.DAL\\Repositories\\PerfumeRepository.cs",
+              "RelativeToolTip": "Perfume.DAL\\Repositories\\PerfumeRepository.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvyQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:15:05.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PerfumeManagement_SE181531\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "PerfumeManagement_SE181531\\LoginWindow.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAUwCQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:53:24.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.BLL\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Perfume.BLL\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.BLL\\Services\\AccountService.cs",
+              "RelativeToolTip": "Perfume.BLL\\Services\\AccountService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:52:07.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.DAL\\Repositories\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Perfume.DAL\\Repositories\\AccountRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.DAL\\Repositories\\AccountRepository.cs",
+              "RelativeToolTip": "Perfume.DAL\\Repositories\\AccountRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:49:27.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CompanyService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.BLL\\Services\\CompanyService.cs",
+              "RelativeDocumentMoniker": "Perfume.BLL\\Services\\CompanyService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.BLL\\Services\\CompanyService.cs",
+              "RelativeToolTip": "Perfume.BLL\\Services\\CompanyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:35:21.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CompanyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.DAL\\Repositories\\CompanyRepository.cs",
+              "RelativeDocumentMoniker": "Perfume.DAL\\Repositories\\CompanyRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.DAL\\Repositories\\CompanyRepository.cs",
+              "RelativeToolTip": "Perfume.DAL\\Repositories\\CompanyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:34:20.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\DetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PerfumeManagement_SE181531\\DetailWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\DetailWindow.xaml.cs",
+              "RelativeToolTip": "PerfumeManagement_SE181531\\DetailWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:26:37.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductionCompany.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.DAL\\ProductionCompany.cs",
+              "RelativeDocumentMoniker": "Perfume.DAL\\ProductionCompany.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.DAL\\ProductionCompany.cs",
+              "RelativeToolTip": "Perfume.DAL\\ProductionCompany.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:20:51.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PerfumeInformation.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.DAL\\PerfumeInformation.cs",
+              "RelativeDocumentMoniker": "Perfume.DAL\\PerfumeInformation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.DAL\\PerfumeInformation.cs",
+              "RelativeToolTip": "Perfume.DAL\\PerfumeInformation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:15:58.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PerfumeService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.BLL\\Services\\PerfumeService.cs",
+              "RelativeDocumentMoniker": "Perfume.BLL\\Services\\PerfumeService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\Perfume.BLL\\Services\\PerfumeService.cs",
+              "RelativeToolTip": "Perfume.BLL\\Services\\PerfumeService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T03:16:48.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\App.xaml",
+              "RelativeDocumentMoniker": "PerfumeManagement_SE181531\\App.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\App.xaml",
+              "RelativeToolTip": "PerfumeManagement_SE181531\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T03:09:00.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\DetailWindow.xaml",
+              "RelativeDocumentMoniker": "PerfumeManagement_SE181531\\DetailWindow.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\DetailWindow.xaml",
+              "RelativeToolTip": "PerfumeManagement_SE181531\\DetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T03:00:19.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "PerfumeManagement_SE181531\\LoginWindow.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\LoginWindow.xaml",
+              "RelativeToolTip": "PerfumeManagement_SE181531\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T03:00:06.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PerfumeManagement_SE181531\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\MainWindow.xaml",
+              "RelativeToolTip": "PerfumeManagement_SE181531\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-10T02:55:05.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PerfumeManagement_SE181531\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\PE_PRN212_FA24_000557_TranDinhThinh\\PerfumeManagement_SE181531\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PerfumeManagement_SE181531\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T02:55:03.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

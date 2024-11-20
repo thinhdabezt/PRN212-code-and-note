@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 namespace AirConditionerShop.DAL.Models;
 
@@ -21,9 +22,33 @@ public partial class AirConditionerShop2024DbContext : DbContext
 
     public virtual DbSet<SupplierCompany> SupplierCompanies { get; set; }
 
+    //chuỗi kết nối csdl - connection string phải đc di dời qua tập tin lẻ bên ngoài để đảm bảo tính bảo mật của thông tin server
+    //thường cất trong 1 tập tin json tên là appsettings.json
+    //ta cần làm những việc sau:
+    //1. tạo file json, move connection string qua file đó
+    //2. viết hàm để đọc chuỗi này
+    //3. truyền chuỗi vào hàm
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=ItsThinhs;uid=sa;pwd=123456;database=AirConditionerShop2024DB;TrustServerCertificate=True");
+        => optionsBuilder.UseSqlServer(GetConnectionString());
+
+    private string GetConnectionString()
+
+    {
+
+        IConfiguration config = new ConfigurationBuilder()
+
+        .SetBasePath(Directory.GetCurrentDirectory())
+
+        .AddJsonFile("appsettings.json", true, true)
+
+        .Build();
+
+        var strConn = config["ConnectionStrings:DefaultConnectionStringDB"];
+
+
+        return strConn;
+
+    }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

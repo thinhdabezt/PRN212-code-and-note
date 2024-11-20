@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\bin\Debug\net8.0\Perfume.DAL.deps.json
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\bin\Debug\net8.0\Perfume.DAL.runtimeconfig.json
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\bin\Debug\net8.0\Perfume.DAL.dll
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\bin\Debug\net8.0\Perfume.DAL.pdb
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\obj\Debug\net8.0\Perfume.DAL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\obj\Debug\net8.0\Perfume.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\obj\Debug\net8.0\Perfume.DAL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\obj\Debug\net8.0\Perfume.DAL.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\obj\Debug\net8.0\Perfume.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\obj\Debug\net8.0\Perfume.DAL.dll
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\obj\Debug\net8.0\refint\Perfume.DAL.dll
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\obj\Debug\net8.0\Perfume.DAL.pdb
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\obj\Debug\net8.0\Perfume.DAL.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.DAL\obj\Debug\net8.0\ref\Perfume.DAL.dll

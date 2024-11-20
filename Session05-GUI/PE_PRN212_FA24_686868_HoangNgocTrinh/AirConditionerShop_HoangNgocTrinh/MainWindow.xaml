@@ -24,7 +24,7 @@
                 " TabIndex="4" Click="UpdateButton_Click" />
         <Button x:Name="DeleteButton" Content="Delete Air Con" HorizontalAlignment="Left" Height="50" Margin="1003,444,0,0" VerticalAlignment="Top" Width="185
                 " TabIndex="5" Click="DeleteButton_Click" />
-        <Button x:Name="QuitButton" Content="Quit" HorizontalAlignment="Left" Height="50" Margin="1003,540,0,0" VerticalAlignment="Top" Width="185" TabIndex="6" />
+        <Button x:Name="QuitButton" Content="Quit" HorizontalAlignment="Left" Height="50" Margin="1003,540,0,0" VerticalAlignment="Top" Width="185" TabIndex="6" Click="QuitButton_Click" />
 
         <DataGrid x:Name="AirCondDataGrid" HorizontalAlignment="Left" Height="310" Margin="40,289,0,0" VerticalAlignment="Top" Width="930" AutoGenerateColumns="False" TabIndex="7" >
             <DataGrid.Columns>
@@ -36,11 +36,9 @@
                 <DataGridTextColumn Header="Quantity" Width="70" Binding="{Binding Quantity}" />
                 <DataGridTextColumn Header="Price ($)" Width="100" Binding="{Binding DollarPrice}" />
                 <DataGridTextColumn Header="Supplier ID" Width="70" Binding="{Binding SupplierId}" />
-                <DataGridTextColumn Header="Supplier Name" Width="140" Binding="{Binding SupplierCompany.SupplierName}" />
+                <DataGridTextColumn Header="Supplier Name" Width="140" Binding="{Binding Supplier.SupplierName}" />
             </DataGrid.Columns>
         </DataGrid>
-
-        <Label Content="© 2024 giáo.làng" HorizontalAlignment="Left" Height="45" Margin="34,605,0,0" VerticalAlignment="Top" Width="182" Foreground="#ffff00"/>
 
     </Grid>
 </Window>

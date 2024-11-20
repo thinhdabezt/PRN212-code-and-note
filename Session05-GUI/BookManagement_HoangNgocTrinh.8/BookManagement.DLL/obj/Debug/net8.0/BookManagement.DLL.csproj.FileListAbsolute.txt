@@ -1,0 +1,15 @@
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\bin\Debug\net8.0\BookManagement.DLL.deps.json
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\bin\Debug\net8.0\BookManagement.DLL.runtimeconfig.json
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\bin\Debug\net8.0\BookManagement.DLL.dll
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\bin\Debug\net8.0\BookManagement.DLL.pdb
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\obj\Debug\net8.0\BookManagement.DLL.csproj.AssemblyReference.cache
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\obj\Debug\net8.0\BookManagement.DLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\obj\Debug\net8.0\BookManagement.DLL.AssemblyInfoInputs.cache
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\obj\Debug\net8.0\BookManagement.DLL.AssemblyInfo.cs
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\obj\Debug\net8.0\BookManagement.DLL.csproj.CoreCompileInputs.cache
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\obj\Debug\net8.0\BookManagement.DLL.sourcelink.json
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\obj\Debug\net8.0\BookManagement.DLL.dll
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\obj\Debug\net8.0\refint\BookManagement.DLL.dll
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\obj\Debug\net8.0\BookManagement.DLL.pdb
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\obj\Debug\net8.0\BookManagement.DLL.genruntimeconfig.cache
+D:\CSharp\PRN212\Session05-GUI\BookManagement_HoangNgocTrinh.8\BookManagement.DLL\obj\Debug\net8.0\ref\BookManagement.DLL.dll

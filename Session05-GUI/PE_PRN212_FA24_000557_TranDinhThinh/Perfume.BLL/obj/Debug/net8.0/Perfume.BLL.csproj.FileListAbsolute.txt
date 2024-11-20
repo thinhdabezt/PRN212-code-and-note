@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\bin\Debug\net8.0\Perfume.BLL.deps.json
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\bin\Debug\net8.0\Perfume.BLL.dll
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\bin\Debug\net8.0\Perfume.BLL.pdb
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\bin\Debug\net8.0\Perfume.DAL.dll
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\bin\Debug\net8.0\Perfume.DAL.pdb
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\obj\Debug\net8.0\Perfume.BLL.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\obj\Debug\net8.0\Perfume.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\obj\Debug\net8.0\Perfume.BLL.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\obj\Debug\net8.0\Perfume.BLL.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\obj\Debug\net8.0\Perfume.BLL.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\obj\Debug\net8.0\Perfume..F75E3A82.Up2Date
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\obj\Debug\net8.0\Perfume.BLL.dll
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\obj\Debug\net8.0\refint\Perfume.BLL.dll
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\obj\Debug\net8.0\Perfume.BLL.pdb
+C:\Users\ASUS\Desktop\PE_PRN212_FA24_000557_TranDinhThinh\Perfume.BLL\obj\Debug\net8.0\ref\Perfume.BLL.dll
